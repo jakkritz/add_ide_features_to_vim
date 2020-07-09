@@ -1,1 +1,2 @@
-python ~/.vim/bundle/YouCompleteMe/install.py
+cd ~/.vim/bundle/YouCompleteMe
+python3 install.py --all
